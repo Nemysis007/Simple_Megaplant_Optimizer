@@ -12,15 +12,10 @@
 
 ## Tests still required in the fresh project
 
-- Verify Project Settings off/on with console override reset to `-1`.
-- Check repeated PIE sessions and world travel.
 - Check actor/component exclusion tags and existing external overrides.
-- Check strong wind, screen edges, shadows, distant views, and padding.
 - Check World Partition stream-in/out and PCG regeneration, cancellation, and cleanup.
 - Check custom same-count instance edits followed by Blueprint refresh.
-- Test a packaged game with the intended distribution engine build.
-- Confirm only one bounds-cache implementation is enabled if MinimapSystem is installed too.
-- Capture hardware/scene details and fresh measurements before making standalone performance claims.
+- Capture other hardware/scene details and fresh measurements before making standalone performance claims.
 
 Compilation alone does not establish runtime performance, visual correctness, platform compatibility beyond the compiled target, or FAB readiness.
 
