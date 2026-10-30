@@ -8,4 +8,4 @@ Initial beta release of Simple Megaplant Optimizer, displayed in Unreal Editor a
 - Configurable padding, console controls, diagnostics, and Blueprint refresh support.
 - PCG lifecycle invalidation, runtime component discovery, and preservation of external bounds overrides.
 - Win64 binaries built with UE 5.7.4, changelist 51494982.
-- Fresh-project PIE smoke test and enable/disable console controls verified; packaged-game runtime and broader edge-case tests remain outstanding. See VALIDATION.md.
+- Fresh-project PIE smoke test and enable/disable console controls verified; See VALIDATION.md for outstanding tests.
