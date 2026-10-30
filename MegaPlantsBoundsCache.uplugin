@@ -1,0 +1,19 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "0.1.0",
+    "FriendlyName": "Mega Plants Bounds Cache",
+    "Description": "Runtime aggregate bounds caching for stationary CPU-instanced skinned foliage using UE 5.7 Dynamic Wind.",
+    "Category": "Rendering",
+    "CreatedBy": "MaJa Productions Ltd",
+    "EngineVersion": "5.7.0",
+    "CanContainContent": false,
+    "IsBetaVersion": true,
+    "Installed": false,
+    "Modules": [
+        { "Name": "MegaPlantsBoundsCache", "Type": "Runtime", "LoadingPhase": "Default" }
+    ],
+    "Plugins": [
+        { "Name": "PCG", "Enabled": true }
+    ]
+}

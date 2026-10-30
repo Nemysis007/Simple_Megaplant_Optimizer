@@ -1,0 +1,11 @@
+# Generated UE files. Commit source; distribute built binaries separately as release assets.
+**/Binaries/
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+.vs/
+.idea/
+*.sln
+*.suo
+*.user
+*.zip
