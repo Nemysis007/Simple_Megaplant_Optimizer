@@ -4,6 +4,10 @@
 
 A UE 5.7 runtime plugin that caches aggregate bounds for stationary CPU-instanced skinned foliage driven by Dynamic Wind. It avoids repeating the per-instance aggregate bounds calculation while the component's placement is unchanged. Wind continues to animate; component ticks are not disabled.
 
+## Support & Feedback
+
+Having trouble or want to share feedback? [Join the Discord community](https://discord.gg/ehVhy7Fxh) for plugin support and discussion. When reporting a problem, include your Unreal Engine version, plugin version, and the steps that reproduce it.
+
 ## Requirements and scope
 
 - Unreal Engine 5.7. Other engine versions have not been validated.
